@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IPWall</string>
+    <string name="No_internet_found">No internet found</string>
+    <string name="Thank_you">Thank you for using IPWall</string>
 </resources>
